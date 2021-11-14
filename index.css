@@ -1,0 +1,59 @@
+
+form {
+  border: 3px solid #f1f1f1;
+  width:40%;
+  margin: auto;
+  margin-top: 150px;
+}
+
+
+input[type=text], input[type=password] {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+}
+
+
+button {
+  background-color: #04AA6D;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 50%; 
+  border-radius: 40px;
+  display: inline;
+}
+
+
+button:hover {
+  opacity: 0.8;
+}
+
+
+
+
+.headingcontainer{
+  text-align: center;
+  margin: 24px 0 12px 0;
+}
+
+.container {
+  padding: 16px;
+}
+.newuser{
+    font-size: 20px;
+    text-align: center;
+    color: greenyellow;
+    text-decoration: none;
+    display: inline;
+    margin-left: 40px;
+   
+}
+
+
+
